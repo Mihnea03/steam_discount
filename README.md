@@ -1,4 +1,4 @@
-# Steam Web Scraper
+# Generic Web Scraper
 
 This web scraper is designed to collect data about the biggest discounts from the Steam Online store and save the data in a configured output csv file. It can also be configured to collect any type of data. It is written in Python and based on selectolax and PlayWright.
 
